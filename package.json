@@ -1,0 +1,13 @@
+{
+  "name": "capitalize-br",
+  "version": "1.0.0",
+  "description": "Transforma a primeira letra de cada palavra em maiúscula.",
+  "main": "index.js",
+  "repository": "https://github.com/saculbr/capitalize-br",
+  "author": "saculbr",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
+}
